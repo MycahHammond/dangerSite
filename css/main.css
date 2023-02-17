@@ -5,3 +5,13 @@
 .nav-button {
     font-size: 20px; color: gold; margin: 0 0 0 10px;
 }
+
+.night-block {
+     
+		text-align: center; margin: 10px auto; padding: 10px; background: #818589; 
+}
+
+.img-center {
+   display: block; margin: 10px auto;
+}
+
